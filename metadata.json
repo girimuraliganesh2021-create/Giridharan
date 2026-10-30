@@ -1,0 +1,6 @@
+{
+  "name": "Python Calculator Pro",
+  "description": "A high-precision, professional scientific calculator powered by a secure Python AST parsing backend with full Vercel compatibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
